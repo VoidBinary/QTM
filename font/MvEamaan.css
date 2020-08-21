@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Mv Eamaan XP';
+    src: url('MvEamaanXP.woff2') format('woff2'),
+        url('MvEamaanXP.woff') format('woff'),
+        url('MvEamaanXP.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
